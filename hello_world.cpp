@@ -2,7 +2,8 @@
 #include <string>
 
 int
-main() {
+main()
+{
   std::string name; //Введите ваше имя
   std::cin >> name;
   std::cout << "Hello world from " << name;
